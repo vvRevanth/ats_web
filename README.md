@@ -19,6 +19,12 @@ In today's competitive job market, recruiters seek candidates whose personalitie
 - Streamlit (Frontend)
 - Flask (Backend)
 
+## Screenshots
+![CareerNest Interface](https://github.com/greeky-tarun/ats_web/blob/main/assets/images/ui1.png)
+*Screenshot: CareerNest Interface*
+![Output interface](https://github.com/greeky-tarun/ats_web/blob/main/assets/images/ui2.png)
+*Output Interface*
+
 ## Conclusion
 
 This project successfully developed an automated system for parsing and analyzing resumes, addressing the challenge of handling unstructured resume data efficiently. The system leverages Natural Language Processing (NLP) techniques through an API to analyze resumes and generate a job suitability score based on relevant keywords and skills. The Streamlit-based user interface allows for easy interaction, including login and registration functionalities. Ultimately, this project reduces manual effort and time spent on resume analysis, benefiting both employers and job seekers. Future advancements could include semantic mapping for deeper analysis, improved handling of diverse resume formats, and additional features for comprehensive evaluation.
