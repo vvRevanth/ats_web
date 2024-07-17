@@ -20,8 +20,10 @@ In today's competitive job market, recruiters seek candidates whose personalitie
 - Flask (Backend)
 
 ## Screenshots
+
 ![CareerNest Interface](https://github.com/greeky-tarun/ats_web/blob/main/assets/images/ui1.png)
 *Screenshot: CareerNest Interface*
+
 ![Output interface](https://github.com/greeky-tarun/ats_web/blob/main/assets/images/ui2.png)
 *Output Interface*
 
